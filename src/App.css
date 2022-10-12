@@ -1,0 +1,40 @@
+.div1{
+  width: 100%;
+}
+.div1 img{
+  width: 100%;
+}
+.row{
+  display: flex;
+  justify-content: space-between;
+  background-color: #575DBD;
+  padding: 1% 10%;
+  width: 80%;
+  align-items: center;
+}
+.row1{
+  max-width: 25%;
+  
+}
+.row2{
+  display: flex;
+  align-items: center;
+  max-width:35%;
+  color: white;
+  font-weight: 600;
+}
+.row2 button{
+color: white;
+font-weight: 800;
+font-size: 18px;
+padding: 3%;
+border: none;
+border-radius: 1px;
+margin: 0% 5%;
+}
+.btn1{
+background-color: rgb(65, 235, 65);
+}
+.btn2{
+background-color: #9da1e6;
+}
